@@ -40,7 +40,8 @@
 <div align="center">  
 <span style="color:#FF8C00; font-weight:bold;">Salesforce Admin</span><br/>  
 <span style="color:#FF8C00; font-weight:bold;">Salesforce Development</span><br/>  
-<span style="color:#FF8C00; font-weight:bold;">Salesforce Vlocity</span><br/>  
+<span style="color:#FF8C00; font-weight:bold;">Salesforce Vlocity</span><br/>
+<span style="color:#FF8C00; font-weight:bold;">Salesforce Integration</span> 
 <span style="color:#FF8C00; font-weight:bold;">Salesforce LWC</span><br/>  
 <span style="color:#FF8C00; font-weight:bold;">Salesforce CPQ</span>  
 </div>
